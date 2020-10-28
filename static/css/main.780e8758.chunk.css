@@ -1,2 +1,0 @@
-body{font-family:"Franklin Gothic Medium","Arial Narrow",Arial,sans-serif}.list{list-style:none;padding:0;display:grid;grid-template-columns:150px 150px;max-width:400px}.clear-button,.list__button{padding:10px;border-radius:5px;width:100px;background-color:#fff;text-transform:uppercase;margin-bottom:15px;font-weight:600;transition:background-color .3s,color .3s,transform .3s;outline:none}.clear-button:hover,.list__button:hover{cursor:pointer;background-color:#000;color:#fff;transform:scale(1.1)}.clear-button{width:1fr}
-/*# sourceMappingURL=main.780e8758.chunk.css.map */
